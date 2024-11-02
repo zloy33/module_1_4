@@ -1,0 +1,7 @@
+my_string = input( "how are you: ")
+print(len("how are you: "))
+print(my_string.upper())
+print(my_string.lower())
+print("how are you: ".replace(" ", ""))
+print("how are you: "[0])
+print("how are you: "[-1])
